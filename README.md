@@ -10,7 +10,9 @@ This repository contains an implementation of the classic pen-and-paper game Dot
 
 ### Difficulty Levels:
 Easy: In this mode, the bot makes random moves.
+
 Medium: The bot in this mode employs a basic strategy based on LocalSeach.
+
 Hard: This is the most challenging mode, where the bot utilizes the minimax algorithm with alpha-beta pruning. It explores the game tree to find the optimal sequence of moves, aiming to minimize the player's score while maximizing its own.
 
 # A game of dots and boxes
